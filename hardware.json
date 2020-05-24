@@ -1,0 +1,38 @@
+[
+    {
+        "InitialMin": 0,
+        "InitialMax": 1023,
+        "DeadZone": -0.1
+    },
+    {
+        "Inverted": true,
+        "InitialMin": 180,
+        "InitialMax": 700,
+        "MinRange": 520,
+        "MaxRange": 520
+    },
+    {
+        "Inverted": true,
+        "MinRange": 20,
+        "MaxRange": 40,
+        "DeadZone": 0.2
+    },
+    {
+        "MinRange": 20,
+        "MaxRange": 40,
+        "DeadZone": 0.2
+    },
+    {
+        "InitialMin": 452,
+        "InitialMax": 504,
+        "MinRange": 40,
+        "MaxRange": 80
+    },
+    {
+        "Inverted": true,
+        "InitialMin": 850,
+        "InitialMax": 960,
+        "MinRange": 80,
+        "MaxRange": 100
+    }
+]

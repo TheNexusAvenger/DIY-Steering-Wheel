@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <AssemblyName>KeyboardPWM</AssemblyName>
+        <RootNamespace>KeyboardPWM</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="InputSimulatorStandard" Version="1.0.0" />
+      <PackageReference Include="SimWinGamePad" Version="1.0.6" />
+    </ItemGroup>
+
+</Project>

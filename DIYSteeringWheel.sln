@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardPWM", "KeyboardPWM\KeyboardPWM.csproj", "{FC1F82E4-6B11-4AD9-AC95-3E2C15C704F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardController", "KeyboardController\KeyboardController.csproj", "{546FF266-9D97-4DE9-8219-C8A97004EE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialController", "SerialController\SerialController.csproj", "{0191B45F-4688-4C8D-B87C-F7FBB666EA9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1F82E4-6B11-4AD9-AC95-3E2C15C704F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1F82E4-6B11-4AD9-AC95-3E2C15C704F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1F82E4-6B11-4AD9-AC95-3E2C15C704F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1F82E4-6B11-4AD9-AC95-3E2C15C704F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546FF266-9D97-4DE9-8219-C8A97004EE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546FF266-9D97-4DE9-8219-C8A97004EE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546FF266-9D97-4DE9-8219-C8A97004EE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546FF266-9D97-4DE9-8219-C8A97004EE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0191B45F-4688-4C8D-B87C-F7FBB666EA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0191B45F-4688-4C8D-B87C-F7FBB666EA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0191B45F-4688-4C8D-B87C-F7FBB666EA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0191B45F-4688-4C8D-B87C-F7FBB666EA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
