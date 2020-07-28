@@ -114,5 +114,5 @@ void setup() {
  */
 void loop() {
   updateAnalogValues();
-  //updateDigitalValues();
+  updateDigitalValues();
 }
